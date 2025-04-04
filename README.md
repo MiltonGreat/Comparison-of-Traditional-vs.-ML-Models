@@ -73,7 +73,7 @@ Visualization: Score distributions, fairness gaps, and performance comparisons.
 [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit
 )
 
-![Give Me Some Credit Dataset from Kaggle](https://www.kaggle.com/c/GiveMeSomeCredit)
+[Give Me Some Credit Dataset from Kaggle](https://www.kaggle.com/c/GiveMeSomeCredit)
 
 https://www.kaggle.com/c/GiveMeSomeCredit
   
