@@ -28,7 +28,6 @@ Target: SeriousDlqin2yrs (1 = default within 2 years, 0 = no default)
 - MonthlyIncome (Medium)
 - age (Low)
 
-
 ### Key Steps
 
 1. Data Preparation
@@ -70,11 +69,6 @@ Visualization: Score distributions, fairness gaps, and performance comparisons.
 
 ### Source
 
-[Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit
-)
-
 [Give Me Some Credit Dataset from Kaggle](https://www.kaggle.com/c/GiveMeSomeCredit)
-
-https://www.kaggle.com/c/GiveMeSomeCredit
   
 
